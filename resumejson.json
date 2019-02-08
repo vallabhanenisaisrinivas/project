@@ -1,0 +1,41 @@
+{
+  "left1":{
+    "image":"user.jpg",
+    "name":"SAI",
+    "occ":"Software Trainee",
+    "sonof":"S/O:Madhu sudhan rao",
+    "mail":"saisrinivas.vs9@ gmail. com",
+    "phno":"+91-8886563267",
+    "add": "Ongole",
+    "state":"Andhra Pradesh",
+    "Country":"India"
+  },
+  "right":{
+    "createobj":"CREATE OBJECTIVE",
+    "matter":"To secure a position where I can efficiently contribute my skills and abilities to the growth of the organization and build my professional career.",
+      "academypro":"ACADEMIC PROFLE",
+    "graduation":"Graduation:",
+    "inst1":"Bachelor of Technology,QIS College of Engeneering & Technology,Jawaharlal Nehru Technological University,Kakinada 2016-20,Secured:80% of marks",
+    "inter":"Intermediate:",
+    "inst2":"Board of Intermediate Education,AP.Bharathi jr college,Chirala,2014-16,Secured:85% of marks",
+    "school":"School:",
+    "inst3":"board of Secondary Education,2014,Universal High School,Pusapadu x-road,Secured:93% of marks",
+    "tech":"TECHNICAL SKILLS",
+    "pro":"Programming languages:",
+    "languages":"C,C++,Core Java,Basic phyton,php",
+    "web":"Web Technologies:",
+    "languages2":"Html,Css,Bootstrap,javascript,Mysql",
+
+    "acheive":"ACHIEVEMENTS",
+    "data":"To secure a position where I can efficiently contribute my skills and abilities to the growth of the organization and build my professional career.",
+
+
+
+    "hob":"HOBBIES",
+    "hob1":"Reading,Ui Design,playing Cricket"
+  }
+
+
+
+
+}

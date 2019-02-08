@@ -1,0 +1,13 @@
+{
+"left":{
+  "image":"user.jpg",
+  "name":"saisrinivas",
+  "profile":"profile"
+},
+"right":{
+    "image":"user.jpg",
+    "name": "saisrinivas",
+    "profile": "profile"
+  }
+
+}
